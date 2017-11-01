@@ -1,0 +1,9 @@
+.form{
+	padding: 10px;
+	background-color:#ebebe0;
+}
+.img-valign {
+  vertical-align: middle;
+  margin-bottom: 0.75em;
+}
+.highlight { background-color: yellow; }

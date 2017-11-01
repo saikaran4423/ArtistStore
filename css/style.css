@@ -1,0 +1,31 @@
+.content{
+	padding:70px;
+	background-color:#BBBEB2;
+	text-align:center;
+}
+.container-fluid [name="hello"]{
+	padding:50px;
+}
+img{
+	max-width:20px;
+	margin:0 auto;
+	
+}
+.services section{
+	text-align:center;
+}
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
